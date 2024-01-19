@@ -1,0 +1,33 @@
+#gameoverConntainer{
+    text-align: center;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5f2b8;
+    padding: 2em;
+    border-radius: 30px;
+}
+
+#gameoverConntainer h2,p{
+    margin-bottom: 1rem;
+}
+
+#gameoverConntainer h2{
+    font-size: 26px;
+}
+
+#gameoverConntainer p{
+    font-size: 18px;
+}
+
+#gameoverConntainer img{
+    margin: 2rem;
+    height: 350px;
+    width: 350px;
+    border-radius: 30px;
+}
+#gameoverConntainer button{
+    border-radius: 1.5rem;
+}

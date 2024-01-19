@@ -1,0 +1,29 @@
+.option{
+    background-color: #494949;
+    border-radius: .5rem;
+    padding: .2rem;
+    margin-bottom: 0.2rem;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.4s; 
+    font-size: 18px;
+}
+
+.option p{
+    color: black;
+    font-style: bold;
+}
+
+.option:hover{
+    opacity: 1;
+}
+
+.correct{
+    background-color: #2ea12a;
+    font-weight: 700;
+}
+
+.wrong{
+    background-color: #676767;
+    opacity: .4;
+}
