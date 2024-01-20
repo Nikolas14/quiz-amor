@@ -3,7 +3,7 @@ import { QuizContext } from '../context/quiz'
 
 import './GameOver.css'
 
-import Welldone from '../img/0.jpg'
+import Welldone from '/img/0.jpg'
 
 const GameOver = () => {
 
