@@ -1,7 +1,7 @@
 import { QuizContext } from '../context/quiz'
 import { useContext } from 'react'
 import '../componentes/Welcome.css'
-import Quiz from '../img/14.jpg'
+import Quiz from '/img/14.jpg'
 
 const Welcome = () => {
 

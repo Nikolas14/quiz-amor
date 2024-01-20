@@ -22,7 +22,7 @@ const Question = () => {
 
   return (
     <div id="questioContainer">
-        <img src={"src/img/"+currentQuestion.img+".jpg"}/>
+        <img src={currentQuestion.img}/>
         <p>Pergunta {quizState.currentQuestion + 1} de {quizState.questions.length}</p>
         <h3>{currentQuestion.question}</h3>
         <div id="optionsContainer">
