@@ -21,6 +21,7 @@ button{
   cursor: pointer;
   padding: .8rem 1.5rem;
   background-color: #F8F8FA;
+  color: black;
 }
 
 button:hover{
