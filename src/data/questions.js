@@ -42,11 +42,11 @@ const data = [
   {
     question: "Qual foi a cena mais inesperada que vimos juntos?",
     options: [
-      "Garça caindo morta do céu.",
+      "Garça caindo morta do céu em Rosh Hashaná.",
       "Um monte de gente pulando em uma carrocinha quebrada do Eder Mauro.",
       "Keane Reeves da shoppe na academia."
     ],
-    answer: "O tempo passa diferente quando estamos juntos.",
+    answer: "Garça caindo morta do céu em Rosh Hashaná.",
     img: "/img/5.jpg",
   }
     
