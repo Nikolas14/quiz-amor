@@ -1,7 +1,7 @@
 import { createContext, useReducer } from "react";
 
 import questions from '../data/questions'
-questions.length=10
+questions.length=5
 const STAGE = ['Start', 'Playing', 'End']
 const initialState = {
     gameStage: STAGE[0],

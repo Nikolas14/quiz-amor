@@ -7,7 +7,7 @@
 body,html{
   min-height: 100vh;
   height: 100%;
-  color: #000000;
+  color: #F8F8FA;
   background-color: #232323;
 }
 
@@ -20,7 +20,7 @@ button{
   font-size: 1.2rem;
   cursor: pointer;
   padding: .8rem 1.5rem;
-  background-color: #727272;
+  background-color: #F8F8FA;
 }
 
 button:hover{

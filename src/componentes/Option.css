@@ -19,11 +19,11 @@
 }
 
 .correct{
-    background-color: #2ea12a;
+    background-color: #6BA368;
     font-weight: 700;
 }
 
 .wrong{
-    background-color: #676767;
+    background-color: #EF6351;
     opacity: .4;
 }

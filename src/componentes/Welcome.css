@@ -5,13 +5,14 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #f5f2b8;
+    background-color: #A691BC;
     padding: 2em;
     border-radius: 30px;
 }
 
 #welcomeCotainer h2,p{
     margin-bottom: .3rem;
+    color: #F8F8FA;
 }
 
 #welcomeCotainer img{
